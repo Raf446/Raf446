@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Hii.gif" alt="Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Hii.gif" alt="Header Banner" width="25%" />
 </div>
 
 <br/>
 
 # 💫 About Me:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Freaking%20Out%20Bang%20Dream%20GIF.gif" alt="About Me GIF" width="400" />
-</div>
-
-<br/>
 
 🔭 I’m currently working on systems programming & Linux automation scripts<br>
 👯 I’m looking to collaborate on open-source C++ / Python tools<br>
@@ -44,5 +38,9 @@
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RafKikir) 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Freaking%20Out%20Bang%20Dream%20GIF.gif" alt="About Me GIF" width="25%" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
