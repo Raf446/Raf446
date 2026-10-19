@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/HEvOMBN2WxhnEu6195/giphy.gif" alt="Header Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlvbWlibm53MWN5YWU5am8zZDNudXI1MmtiMTgza2hnZXUxMHZndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HEvOMBN2WxhnEu6195/giphy.gif" alt="Header Banner" width="100%" />
 </div>
 
 <br/>
@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="https://i.giphy.com/media/kr9r54ziJHS1xajGQw/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lqNDZ4Zmg3eTRuYjFxbWJlY29tMTdpY2UyZjB3amE1NXlwMjN5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kr9r54ziJHS1xajGQw/giphy.gif" alt="Coding GIF" width="400" />
 </div>
 
 <br/>
