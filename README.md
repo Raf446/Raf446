@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="assets/Hi.gif" width="25%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Hii.gif" alt="Header Banner" width="100%" />
+</div>
+
+<br/>
 
 # 💫 About Me:
 
-<p align="center">
-  <img src="assets/anime.gif" width="400" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raf446/Raf446/main/assets/Freaking%20Out%20Bang%20Dream%20GIF.gif" alt="About Me GIF" width="400" />
+</div>
+
 <br/>
 
 🔭 I’m currently working on systems programming & Linux automation scripts<br>
