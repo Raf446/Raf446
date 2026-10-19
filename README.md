@@ -1,15 +1,12 @@
-<div align="center">
-  <img src="./assets/Hi.gif" alt="Header Banner" width="100%" />
-</div>
-
-<br/>
+<p align="center">
+  <img src="assets/Hi.gif" width="25%" />
+</p>
 
 # 💫 About Me:
 
-<div align="center">
-  <img src="./assets/Freaking%20Out%20Bang%20Dream%20Gif.gif" alt="About Me GIF" width="400" />
-</div>
-
+<p align="center">
+  <img src="assets/anime.gif" width="400" />
+</p>
 <br/>
 
 🔭 I’m currently working on systems programming & Linux automation scripts<br>
